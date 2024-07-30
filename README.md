@@ -6,7 +6,7 @@
 # 목차
 
 - [Chapter 01. C프로그래밍이 도대체 뭐 길래 다들 난리지?]
-- [Chapter 02. 첫 번째 프로그램 작성하기] (https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2002.%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
+- [Chapter 02. 첫 번째 프로그램 작성하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2002.%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [Chapter 03. 주석으로 코드를 명확히 하기]
 - [Chapter 04. 드디어 첫 작품 발표!]
 - [Chapter 05. 프로그램에 변수 추가하기]
