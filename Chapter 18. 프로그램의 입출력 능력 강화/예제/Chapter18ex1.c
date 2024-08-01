@@ -3,7 +3,7 @@
 
 /* 이 프로그램은 putchar() 함수의 단순한 사용 예이다. */
 
-// putchat()는 stdio.h에 정의된다.
+// putchar()는 stdio.h에 정의된다.
 // string.h은 strlen() 함수 때문에 필요하다.
 
 #include <stdio.h>
