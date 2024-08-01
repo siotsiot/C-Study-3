@@ -7,6 +7,7 @@
  다만 이것은 swtich 문을 가르치기 위하여 선택 구조만을 가지고 있다.) */
 
 #include <stdio.h>
+#include <stdlib.h>
 
 main()
 {
