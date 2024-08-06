@@ -28,7 +28,7 @@
 - [Chapter 21. 배열 다루기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2021.%20%EB%B0%B0%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 - [Chapter 22. 배열 탐색하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2022.%20%EB%B0%B0%EC%97%B4%20%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0)
 - [Chapter 23. 데이터를 순서대로 정렬하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2023.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
-- [Chapter 24. 포인터의 비밀 파헤치기]
+- [Chapter 24. 포인터의 비밀 파헤치기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2024.%20%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%9D%98%20%EB%B9%84%EB%B0%80%20%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0)
 - [Chapter 25. 배열과 포인터]
 - [Chapter 26. 컴퓨터 메모리 극대화하기]
 - [Chapter 27. 구조체로 데이터 구조 만들기]
