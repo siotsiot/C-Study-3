@@ -20,4 +20,6 @@ main()
 
     printf("합계는 %d입니다.\n", sum);
     printf("평균은 %d입니다.\n", sum / SIZE);
+
+    return 0;
 }
