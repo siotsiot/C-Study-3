@@ -29,11 +29,13 @@
 - [Chapter 22. 배열 탐색하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2022.%20%EB%B0%B0%EC%97%B4%20%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0)
 - [Chapter 23. 데이터를 순서대로 정렬하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2023.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%88%9C%EC%84%9C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 - [Chapter 24. 포인터의 비밀 파헤치기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2024.%20%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%9D%98%20%EB%B9%84%EB%B0%80%20%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0)
-- [Chapter 25. 배열과 포인터]
-- [Chapter 26. 컴퓨터 메모리 극대화하기]
-- [Chapter 27. 구조체로 데이터 구조 만들기]
-- [Chapter 28. 순차 파일을 컴퓨터에 저장하기]
-- [Chapter 29. 랜덤 파일 저장하기]
-- [Chapter 30. 함수를 사용하여 프로그램 체계화하기]
-- [Chapter 31. 함수에 변수를 전달하기]
-- [Chapter 32. 함수에서 값 반환하기]
+- [Chapter 25. 배열과 포인터](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2025.%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%ED%8F%AC%EC%9D%B8%ED%84%B0)
+- [Chapter 26. 컴퓨터 메모리 극대화하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2026.%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0)
+- [Chapter 27. 구조체로 데이터 구조 만들기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2026.%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0)
+- [Chapter 28. 순차 파일을 컴퓨터에 저장하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2028.%20%EC%88%9C%EC%B0%A8%20%ED%8C%8C%EC%9D%BC%EC%9D%84%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90%20%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+- [Chapter 29. 랜덤 파일 저장하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2029.%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90%20%EB%9E%9C%EB%8D%A4%20%ED%8C%8C%EC%9D%BC%20%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+- [Chapter 30. 함수를 사용하여 프로그램 체계화하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2030.%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%B2%B4%EA%B3%84%ED%99%94%ED%95%98%EA%B8%B0)
+- [Chapter 31. 함수에 변수를 전달하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2031.%20%ED%95%A8%EC%88%98%EC%97%90%20%EB%B3%80%EC%88%98%EB%A5%BC%20%EC%A0%84%EB%8B%AC%ED%95%98%EA%B8%B0)
+- [Chapter 32. 함수에서 값 반환하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2032.%20%ED%95%A8%EC%88%98%EC%97%90%EC%84%9C%20%EA%B0%92%20%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0)
+- Appendix A. 아스키 코드표
+- [Appendix B. Draw Poker 프로그램](https://github.com/siotsiot/C-Study-3/tree/main/Appendix%20B.%20Draw%20Poker%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
