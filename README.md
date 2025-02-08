@@ -1,12 +1,27 @@
 # C-Study-3
-> '어서와 C언어는 처음이지!'라는 그레그 페리, 딘 밀러님의 책 예제 코드, Lab 코드 정리입니다.
+> '어서와 C언어는 처음이지!'라는 책 예제 코드, Lab 코드 정리입니다.
 
-<br>
+## 언어
+* C
 
-# 목차
+## 저자
+* Greg Perry, Dean Miller
+* 천인국 
 
-- Chapter 01. C프로그래밍이 도대체 뭐 길래 다들 난리지?
-- [Chapter 02. 첫 번째 프로그램 작성하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2002.%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
+## 판매처
+* https://www.yes24.com/Product/Goods/18749706
+    * 현재 절판
+
+## 공부 방법
+* 이미 C를 공부한 상태이므로 코드 위주로 공부했습니다.
+
+## 진행 상황
+완독
+
+## 목차
+### Chapter 01. C프로그래밍이 도대체 뭐 길래 다들 난리지?
+### Chapter 02. [첫 번째 프로그램 작성하기](Chapter 02. 첫 번째 프로그램 작성하기)
+- (https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2002.%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 - [Chapter 03. 주석으로 코드를 명확히 하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2003.%20%EC%A3%BC%EC%84%9D%EC%9C%BC%EB%A1%9C%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%AA%85%ED%99%95%ED%9E%88%20%ED%95%98%EA%B8%B0)
 - [Chapter 04. 드디어 첫 작품 발표!, 실행 결과를 화면에 표시하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2004.%20%EB%93%9C%EB%94%94%EC%96%B4%20%EC%B2%AB%20%EC%9E%91%ED%92%88%20%EB%B0%9C%ED%91%9C!%2C%20%EC%8B%A4%ED%96%89%20%EA%B2%B0%EA%B3%BC%EB%A5%BC%20%ED%99%94%EB%A9%B4%EC%97%90%20%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0)
 - [Chapter 05. 프로그램에 변수 추가하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2005.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%20%EB%B3%80%EC%88%98%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
