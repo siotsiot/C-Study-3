@@ -1,4 +1,4 @@
-# C-Study-3
+# 어서와 C언어는 처음이지!
 > '어서와 C언어는 처음이지!'라는 책 예제 코드, Lab 코드 정리입니다.
 
 ## 언어
@@ -24,14 +24,14 @@
 ### Chapter 03. [주석으로 코드를 명확히 하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2003.%20%EC%A3%BC%EC%84%9D%EC%9C%BC%EB%A1%9C%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EB%AA%85%ED%99%95%ED%9E%88%20%ED%95%98%EA%B8%B0)
 ### Chapter 04. [드디어 첫 작품 발표!, 실행 결과를 화면에 표시하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2004.%20%EB%93%9C%EB%94%94%EC%96%B4%20%EC%B2%AB%20%EC%9E%91%ED%92%88%20%EB%B0%9C%ED%91%9C!%2C%20%EC%8B%A4%ED%96%89%20%EA%B2%B0%EA%B3%BC%EB%A5%BC%20%ED%99%94%EB%A9%B4%EC%97%90%20%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0)
 ### Chapter 05. [프로그램에 변수 추가하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2005.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%20%EB%B3%80%EC%88%98%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
-### Chapter 06. 프로그램에 단어를 추가하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2006.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%20%EB%8B%A8%EC%96%B4%EB%A5%BC%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
-### Chapter 07. #include와 #define으로 강력한 프로그램 만들기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2007.%20%EA%B0%95%EB%A0%A5%ED%95%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
-### Chapter 08. 사용자와 상호작용 하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2008.%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%20%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%20%ED%95%98%EA%B8%B0)
-### Chapter 09. 숫자 처리하기 - C를 이용한 산술 계산](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2009.%20%EC%88%AB%EC%9E%90%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-C%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%82%B0%EC%88%A0%20%EA%B3%84%EC%82%B0)
-### Chapter 10. 대입과 수식으로 변수 파워업하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2010.%20%EB%8C%80%EC%9E%85%EA%B3%BC%20%EC%88%98%EC%8B%9D%EC%9C%BC%EB%A1%9C%20%EB%B3%80%EC%88%98%20%ED%8C%8C%EC%9B%8C%EC%97%85%ED%95%98%EA%B8%B0)
-### Chapter 11. 길 위의 분기점 - 경로 선택을 위한 데이터 검사](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2011.%20%EA%B8%B8%20%EC%9C%84%EC%9D%98%20%EB%B6%84%EA%B8%B0%EC%A0%90-%EA%B2%BD%EB%A1%9C%20%EC%84%A0%ED%83%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%82%AC)
-### Chapter 12. 논리 연산자로 여러 가지 중에서 하나 선택하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2012.%20%EB%85%BC%EB%A6%AC%20%EC%97%B0%EC%82%B0%EC%9E%90%EB%A1%9C%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20%EC%A4%91%EC%97%90%EC%84%9C%20%ED%95%98%EB%82%98%20%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
-### Chapter 13. 프로그램을 강력하게 만들어주는 추가 연산자](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2013.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EB%8A%94%20%EC%B6%94%EA%B0%80%20%EC%97%B0%EC%82%B0%EC%9E%90)
+### Chapter 06. [프로그램에 단어를 추가하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2006.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%20%EB%8B%A8%EC%96%B4%EB%A5%BC%20%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
+### Chapter 07. [#include와 #define으로 강력한 프로그램 만들기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2007.%20%EA%B0%95%EB%A0%A5%ED%95%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
+### Chapter 08. [사용자와 상호작용 하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2008.%20%EC%82%AC%EC%9A%A9%EC%9E%90%EC%99%80%20%EC%83%81%ED%98%B8%EC%9E%91%EC%9A%A9%20%ED%95%98%EA%B8%B0)
+### Chapter 09. [숫자 처리하기 - C를 이용한 산술 계산](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2009.%20%EC%88%AB%EC%9E%90%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-C%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%82%B0%EC%88%A0%20%EA%B3%84%EC%82%B0)
+### Chapter 10. [대입과 수식으로 변수 파워업하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2010.%20%EB%8C%80%EC%9E%85%EA%B3%BC%20%EC%88%98%EC%8B%9D%EC%9C%BC%EB%A1%9C%20%EB%B3%80%EC%88%98%20%ED%8C%8C%EC%9B%8C%EC%97%85%ED%95%98%EA%B8%B0)
+### Chapter 11. [길 위의 분기점 - 경로 선택을 위한 데이터 검사](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2011.%20%EA%B8%B8%20%EC%9C%84%EC%9D%98%20%EB%B6%84%EA%B8%B0%EC%A0%90-%EA%B2%BD%EB%A1%9C%20%EC%84%A0%ED%83%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%80%EC%82%AC)
+### Chapter 12. [논리 연산자로 여러 가지 중에서 하나 선택하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2012.%20%EB%85%BC%EB%A6%AC%20%EC%97%B0%EC%82%B0%EC%9E%90%EB%A1%9C%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20%EC%A4%91%EC%97%90%EC%84%9C%20%ED%95%98%EB%82%98%20%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
+### Chapter 13. [프로그램을 강력하게 만들어주는 추가 연산자](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2013.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84%20%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EB%8A%94%20%EC%B6%94%EA%B0%80%20%EC%97%B0%EC%82%B0%EC%9E%90)
 ### Chapter 14. [반복 루프를 사용해서 시간과 노력을 절약해 보자!](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2014.%20%EB%B0%98%EB%B3%B5%20%EB%A3%A8%ED%94%84%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C%20%EC%8B%9C%EA%B0%84%EA%B3%BC%20%EB%85%B8%EB%A0%A5%EC%9D%84%20%EC%A0%88%EC%95%BD%ED%95%B4%20%EB%B3%B4%EC%9E%90!)
 ### Chapter 15. [for 반목문 - 반복하는 또 다른 방법](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2015.%20for%20%EB%B0%98%EB%B3%B5%EB%AC%B8-%EB%B0%98%EB%B3%B5%ED%95%98%EB%8A%94%20%EB%98%90%20%EB%8B%A4%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
 ### Chapter 16. [반복문에서 탈출하기](https://github.com/siotsiot/C-Study-3/tree/main/Chapter%2016.%20%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%97%90%EC%84%9C%20%ED%83%88%EC%B6%9C%ED%95%98%EA%B8%B0)
